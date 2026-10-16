@@ -1,3 +1,13 @@
+> **社区维护分支 | Community-maintained fork**
+>
+> 本仓库是 [Foundation42/valkyr](https://github.com/Foundation42/valkyr)（原仓库已私有）的社区续维护分支。
+>
+> - 标签 **`upstream-original`**（提交 `f16d1e8`）是上游最后一版公开快照，**未经任何修改**。
+> - 该标签之后的所有提交，均为本分支维护者的 bug 修复与改进。
+>
+> 许可证：Apache-2.0（见 [LICENSE-APACHE](LICENSE-APACHE)），原始版权归
+> Christian Beaumont / Foundation42 / Entrained.ai 所有。
+
 <p align="center">
   <img src="docs/images/valkyr-banner.png" alt="valkyr — cross-vendor LLM inference and training, Zig + Vulkan, unified compute" width="100%" />
 </p>
